@@ -2,7 +2,7 @@
 
 de l'eXPérience Et des HOmmes
 
-<img src="images/banner.png" width="50%" />
+<img src="https://github.com/XPEHO/.github/blob/main/profile/images/banner.png?raw=true" width="50%" />
 
 ## 📝 À propos
 
