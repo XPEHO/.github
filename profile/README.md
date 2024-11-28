@@ -101,8 +101,10 @@ Vous pouvez nous contacter par mail à l'adresse suivante: `contact@xpeho.com`
 
 ## Nos projets
 
-* [YAKI](https://github.com/XPEHO/YAKI) sur site ? Application mobile de déclaration de présence sur site ou en télétravail.
 * [UDSP59 Formation](https://github.com/XPEHO/UDSP59) Application pour informer sur les gestes de premiers secours.
+* [XPEAPP](https://github.com/XPEHO/XpeApp) Application mobile interne à destination des collaborateurs.
+* [YAKI](https://github.com/XPEHO/YAKI) sur site ? Application mobile de déclaration de présence sur site ou en télétravail.
+
 
 Parcourez notre site [xpeho.com](https://xpeho.com) pour en savoir plus sur nous et nos réalisations.
 
