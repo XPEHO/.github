@@ -70,7 +70,7 @@ Nous développons des applications web et des API REST.
 <br/>
 <div style="display:flex;width:100%;justify-content:space-between;">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="Kafka Logo" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" alt="Kafka Logo" height="50" />
 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168151.png" alt="BigQuery logo" height="50" />
 
